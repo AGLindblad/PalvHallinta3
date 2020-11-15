@@ -1,6 +1,6 @@
-#Hei tämä on testitiedosto!
+# Hei tämä on testitiedosto!
 
- sisennys?
+* sisennys?
 	vai sisennys?
 
-##heading 2
+## heading 2
